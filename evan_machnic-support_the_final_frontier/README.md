@@ -15,7 +15,7 @@ Application Support at Engine Yard. We support some very large customers
 and ensure that they're applications meet their customers' demands. When
 not working, I love spending time with my wife and kids.
 
-![Profile picture](photo.jpg)
+![Profile picture](./photo.jpg)
 
 - [My website](http://broadmac.net)
 - [My twitter](https://twitter.com/emachnic)
